@@ -1,0 +1,5 @@
+{
+  "PORT": "YOUR PORT",
+  "mongoURI": "MONGODBHERE",
+  "RenameYourile to": "default.json"
+}
